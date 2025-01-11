@@ -75,13 +75,18 @@ main .personagem .imagem {
     align-items: center;
     gap: 10px;
     background-color: rgba(0, 0, 0, 0.3);
+    transition: 0.2s;
 }
 
 .botoes .botao {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     border: none;
     background: black;
     cursor: pointer;
     border-radius: 50%;
+    transition: 0.2s;
 }
 
 .botoes .botao img {

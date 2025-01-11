@@ -35,7 +35,7 @@ Essa página foi criada duarante a Semana do Zero ao Programador Contratado, eve
 
 ### O que aprendi
 
-Essa foi a base para tudo o que eu sei até agora, foi o início da minha paixão em programação. Considero esse prejeto um marcaco na minha vida.
+Essa foi a base para tudo o que eu sei até agora, foi o início da minha paixão em programação. Considero esse projeto um marco na minha vida.
 
 ### Desenvolvimento contínuo
 
